@@ -6,9 +6,9 @@ It is based on the web version at [http://aurellem.org/society-of-mind](http://a
 
 # Download
 
-Direct download: [som.epub](target/som.epub).
+Direct download: [som.epub](https://github.com/ttn114/societyofmind/raw/master/target/som.epub).
 
 
 # Building from source
 
-To build the EPUB file from source, call the `build.sh` script.
+To build the EPUB file from source on linux, call the `build.sh` script.
