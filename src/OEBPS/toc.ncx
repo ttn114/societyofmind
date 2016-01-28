@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+
+    <head>
+        <meta name="dtb:uid" content="978-0671657130"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+
+    <docTitle>
+        <text>The Society of Mind</text>
+    </docTitle>
+
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+          <navLabel>
+            <text>Prologue</text>
+          </navLabel>
+          <content src="som-prologue.html"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+          <navLabel>
+            <text>1 Building blocks</text>
+          </navLabel>
+          <content src="som-1.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+          <navLabel>
+            <text>2 Wholes And parts</text>
+          </navLabel>
+          <content src="som-2.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>3 Conflict And Compromise</text>
+          </navLabel>
+          <content src="som-3.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>4 The Self</text>
+          </navLabel>
+          <content src="som-4.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>5 Individuality</text>
+          </navLabel>
+          <content src="som-5.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>6 Insight And Introspection</text>
+          </navLabel>
+          <content src="som-6.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>7 Problems And Goals</text>
+          </navLabel>
+          <content src="som-7.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>8 A Theory Of Memory</text>
+          </navLabel>
+          <content src="som-8.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>9 Summaries</text>
+          </navLabel>
+          <content src="som-9.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>10 Papert's Principle</text>
+          </navLabel>
+          <content src="som-10.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>11 The Shape Of Space</text>
+          </navLabel>
+          <content src="som-11.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>12 Learning Meaning</text>
+          </navLabel>
+          <content src="som-12.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>13 Seeing And Believing</text>
+          </navLabel>
+          <content src="som-13.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>14 Reformulation</text>
+          </navLabel>
+          <content src="som-14.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>15 Consciousness And memory</text>
+          </navLabel>
+          <content src="som-15.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>16 Emotion</text>
+          </navLabel>
+          <content src="som-16.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>17 Development</text>
+          </navLabel>
+          <content src="som-17.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>18 Reasoning</text>
+          </navLabel>
+          <content src="som-18.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>19 Words And ideas</text>
+          </navLabel>
+          <content src="som-19.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>20 Context And Ambiguity</text>
+          </navLabel>
+          <content src="som-20.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>21 Trans-frames</text>
+          </navLabel>
+          <content src="som-21.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>22 Expression</text>
+          </navLabel>
+          <content src="som-22.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>23 Comparisons</text>
+          </navLabel>
+          <content src="som-23.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>24 Frames</text>
+          </navLabel>
+          <content src="som-24.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>25 Frame Arrays</text>
+          </navLabel>
+          <content src="som-25.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>26 Language-frames</text>
+          </navLabel>
+          <content src="som-26.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>27 Censors And Jokes</text>
+          </navLabel>
+          <content src="som-27.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>28 The Mind And The World</text>
+          </navLabel>
+          <content src="som-28.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>29 The Realms Of Thought</text>
+          </navLabel>
+          <content src="som-29.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>30 Mental Models</text>
+          </navLabel>
+          <content src="som-30.1.html"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>Appendix</text>
+          </navLabel>
+          <content src="som-appendix.html"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>Postscript</text>
+          </navLabel>
+          <content src="som-postscript.html"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>Glossary</text>
+          </navLabel>
+          <content src="som-glossary.html"/>
+        </navPoint>
+    </navMap>
+
+</ncx>

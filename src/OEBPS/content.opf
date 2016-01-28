@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>The Society of Mind</dc:title>
+	      <dc:language>en</dc:language>
+        <dc:rights>Marvin Minsky</dc:rights>
+        <dc:creator opf:role="aut">Marvin Minsky</dc:creator>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier id="BookID" opf:scheme="UUID">978-0671657130</dc:identifier>
+    </metadata>
+
+    <manifest>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+
+      <item id="stylesheet.css" href="stylesheet.css" media-type="text/css"/>
+
+      <item id="cover.html" href="cover.html" media-type="application/xhtml+xml"/>
+      <item id="contents.html" href="contents.html" media-type="application/xhtml+xml"/>
+      <item id="som-prologue.html" href="som-prologue.html" media-type="application/xhtml+xml" />
+      <item id="som-1.1.html" href="som-1.1.html" media-type="application/xhtml+xml" />
+      <item id="som-1.2.html" href="som-1.2.html" media-type="application/xhtml+xml" />
+      <item id="som-1.3.html" href="som-1.3.html" media-type="application/xhtml+xml" />
+      <item id="som-1.4.html" href="som-1.4.html" media-type="application/xhtml+xml" />
+      <item id="som-1.5.html" href="som-1.5.html" media-type="application/xhtml+xml" />
+      <item id="som-1.6.html" href="som-1.6.html" media-type="application/xhtml+xml" />
+      <item id="som-2.1.html" href="som-2.1.html" media-type="application/xhtml+xml" />
+      <item id="som-2.2.html" href="som-2.2.html" media-type="application/xhtml+xml" />
+      <item id="som-2.3.html" href="som-2.3.html" media-type="application/xhtml+xml" />
+      <item id="som-2.4.html" href="som-2.4.html" media-type="application/xhtml+xml" />
+      <item id="som-2.5.html" href="som-2.5.html" media-type="application/xhtml+xml" />
+      <item id="som-2.6.html" href="som-2.6.html" media-type="application/xhtml+xml" />
+      <item id="som-3.1.html" href="som-3.1.html" media-type="application/xhtml+xml" />
+      <item id="som-3.2.html" href="som-3.2.html" media-type="application/xhtml+xml" />
+      <item id="som-3.3.html" href="som-3.3.html" media-type="application/xhtml+xml" />
+      <item id="som-3.4.html" href="som-3.4.html" media-type="application/xhtml+xml" />
+      <item id="som-3.5.html" href="som-3.5.html" media-type="application/xhtml+xml" />
+      <item id="som-3.6.html" href="som-3.6.html" media-type="application/xhtml+xml" />
+      <item id="som-4.1.html" href="som-4.1.html" media-type="application/xhtml+xml" />
+      <item id="som-4.2.html" href="som-4.2.html" media-type="application/xhtml+xml" />
+      <item id="som-4.3.html" href="som-4.3.html" media-type="application/xhtml+xml" />
+      <item id="som-4.4.html" href="som-4.4.html" media-type="application/xhtml+xml" />
+      <item id="som-4.5.html" href="som-4.5.html" media-type="application/xhtml+xml" />
+      <item id="som-4.6.html" href="som-4.6.html" media-type="application/xhtml+xml" />
+      <item id="som-4.7.html" href="som-4.7.html" media-type="application/xhtml+xml" />
+      <item id="som-4.8.html" href="som-4.8.html" media-type="application/xhtml+xml" />
+      <item id="som-5.1.html" href="som-5.1.html" media-type="application/xhtml+xml" />
+      <item id="som-5.2.html" href="som-5.2.html" media-type="application/xhtml+xml" />
+      <item id="som-5.3.html" href="som-5.3.html" media-type="application/xhtml+xml" />
+      <item id="som-5.4.html" href="som-5.4.html" media-type="application/xhtml+xml" />
+      <item id="som-5.5.html" href="som-5.5.html" media-type="application/xhtml+xml" />
+      <item id="som-5.6.html" href="som-5.6.html" media-type="application/xhtml+xml" />
+      <item id="som-5.7.html" href="som-5.7.html" media-type="application/xhtml+xml" />
+      <item id="som-6.1.html" href="som-6.1.html" media-type="application/xhtml+xml" />
+      <item id="som-6.2.html" href="som-6.2.html" media-type="application/xhtml+xml" />
+      <item id="som-6.3.html" href="som-6.3.html" media-type="application/xhtml+xml" />
+      <item id="som-6.4.html" href="som-6.4.html" media-type="application/xhtml+xml" />
+      <item id="som-6.5.html" href="som-6.5.html" media-type="application/xhtml+xml" />
+      <item id="som-6.6.html" href="som-6.6.html" media-type="application/xhtml+xml" />
+      <item id="som-6.7.html" href="som-6.7.html" media-type="application/xhtml+xml" />
+      <item id="som-6.8.html" href="som-6.8.html" media-type="application/xhtml+xml" />
+      <item id="som-6.9.html" href="som-6.9.html" media-type="application/xhtml+xml" />
+      <item id="som-6.10.html" href="som-6.10.html" media-type="application/xhtml+xml" />
+      <item id="som-6.11.html" href="som-6.11.html" media-type="application/xhtml+xml" />
+      <item id="som-6.12.html" href="som-6.12.html" media-type="application/xhtml+xml" />
+      <item id="som-6.13.html" href="som-6.13.html" media-type="application/xhtml+xml" />
+      <item id="som-6.14.html" href="som-6.14.html" media-type="application/xhtml+xml" />
+      <item id="som-7.1.html" href="som-7.1.html" media-type="application/xhtml+xml" />
+      <item id="som-7.2.html" href="som-7.2.html" media-type="application/xhtml+xml" />
+      <item id="som-7.3.html" href="som-7.3.html" media-type="application/xhtml+xml" />
+      <item id="som-7.4.html" href="som-7.4.html" media-type="application/xhtml+xml" />
+      <item id="som-7.5.html" href="som-7.5.html" media-type="application/xhtml+xml" />
+      <item id="som-7.6.html" href="som-7.6.html" media-type="application/xhtml+xml" />
+      <item id="som-7.7.html" href="som-7.7.html" media-type="application/xhtml+xml" />
+      <item id="som-7.8.html" href="som-7.8.html" media-type="application/xhtml+xml" />
+      <item id="som-7.9.html" href="som-7.9.html" media-type="application/xhtml+xml" />
+      <item id="som-7.10.html" href="som-7.10.html" media-type="application/xhtml+xml" />
+      <item id="som-8.1.html" href="som-8.1.html" media-type="application/xhtml+xml" />
+      <item id="som-8.2.html" href="som-8.2.html" media-type="application/xhtml+xml" />
+      <item id="som-8.3.html" href="som-8.3.html" media-type="application/xhtml+xml" />
+      <item id="som-8.4.html" href="som-8.4.html" media-type="application/xhtml+xml" />
+      <item id="som-8.5.html" href="som-8.5.html" media-type="application/xhtml+xml" />
+      <item id="som-8.6.html" href="som-8.6.html" media-type="application/xhtml+xml" />
+      <item id="som-8.7.html" href="som-8.7.html" media-type="application/xhtml+xml" />
+      <item id="som-8.8.html" href="som-8.8.html" media-type="application/xhtml+xml" />
+      <item id="som-8.9.html" href="som-8.9.html" media-type="application/xhtml+xml" />
+      <item id="som-8.10.html" href="som-8.10.html" media-type="application/xhtml+xml" />
+      <item id="som-8.11.html" href="som-8.11.html" media-type="application/xhtml+xml" />
+      <item id="som-9.1.html" href="som-9.1.html" media-type="application/xhtml+xml" />
+      <item id="som-9.2.html" href="som-9.2.html" media-type="application/xhtml+xml" />
+      <item id="som-9.3.html" href="som-9.3.html" media-type="application/xhtml+xml" />
+      <item id="som-9.4.html" href="som-9.4.html" media-type="application/xhtml+xml" />
+      <item id="som-10.1.html" href="som-10.1.html" media-type="application/xhtml+xml" />
+      <item id="som-10.2.html" href="som-10.2.html" media-type="application/xhtml+xml" />
+      <item id="som-10.3.html" href="som-10.3.html" media-type="application/xhtml+xml" />
+      <item id="som-10.4.html" href="som-10.4.html" media-type="application/xhtml+xml" />
+      <item id="som-10.5.html" href="som-10.5.html" media-type="application/xhtml+xml" />
+      <item id="som-10.6.html" href="som-10.6.html" media-type="application/xhtml+xml" />
+      <item id="som-10.7.html" href="som-10.7.html" media-type="application/xhtml+xml" />
+      <item id="som-10.8.html" href="som-10.8.html" media-type="application/xhtml+xml" />
+      <item id="som-10.9.html" href="som-10.9.html" media-type="application/xhtml+xml" />
+      <item id="som-11.1.html" href="som-11.1.html" media-type="application/xhtml+xml" />
+      <item id="som-11.2.html" href="som-11.2.html" media-type="application/xhtml+xml" />
+      <item id="som-11.3.html" href="som-11.3.html" media-type="application/xhtml+xml" />
+      <item id="som-11.4.html" href="som-11.4.html" media-type="application/xhtml+xml" />
+      <item id="som-11.5.html" href="som-11.5.html" media-type="application/xhtml+xml" />
+      <item id="som-11.6.html" href="som-11.6.html" media-type="application/xhtml+xml" />
+      <item id="som-11.7.html" href="som-11.7.html" media-type="application/xhtml+xml" />
+      <item id="som-11.8.html" href="som-11.8.html" media-type="application/xhtml+xml" />
+      <item id="som-11.9.html" href="som-11.9.html" media-type="application/xhtml+xml" />
+      <item id="som-12.1.html" href="som-12.1.html" media-type="application/xhtml+xml" />
+      <item id="som-12.2.html" href="som-12.2.html" media-type="application/xhtml+xml" />
+      <item id="som-12.3.html" href="som-12.3.html" media-type="application/xhtml+xml" />
+      <item id="som-12.4.html" href="som-12.4.html" media-type="application/xhtml+xml" />
+      <item id="som-12.5.html" href="som-12.5.html" media-type="application/xhtml+xml" />
+      <item id="som-12.6.html" href="som-12.6.html" media-type="application/xhtml+xml" />
+      <item id="som-12.7.html" href="som-12.7.html" media-type="application/xhtml+xml" />
+      <item id="som-12.8.html" href="som-12.8.html" media-type="application/xhtml+xml" />
+      <item id="som-12.9.html" href="som-12.9.html" media-type="application/xhtml+xml" />
+      <item id="som-12.10.html" href="som-12.10.html" media-type="application/xhtml+xml" />
+      <item id="som-12.11.html" href="som-12.11.html" media-type="application/xhtml+xml" />
+      <item id="som-12.12.html" href="som-12.12.html" media-type="application/xhtml+xml" />
+      <item id="som-12.13.html" href="som-12.13.html" media-type="application/xhtml+xml" />
+      <item id="som-13.1.html" href="som-13.1.html" media-type="application/xhtml+xml" />
+      <item id="som-13.2.html" href="som-13.2.html" media-type="application/xhtml+xml" />
+      <item id="som-13.3.html" href="som-13.3.html" media-type="application/xhtml+xml" />
+      <item id="som-13.4.html" href="som-13.4.html" media-type="application/xhtml+xml" />
+      <item id="som-13.5.html" href="som-13.5.html" media-type="application/xhtml+xml" />
+      <item id="som-13.6.html" href="som-13.6.html" media-type="application/xhtml+xml" />
+      <item id="som-13.7.html" href="som-13.7.html" media-type="application/xhtml+xml" />
+      <item id="som-14.1.html" href="som-14.1.html" media-type="application/xhtml+xml" />
+      <item id="som-14.2.html" href="som-14.2.html" media-type="application/xhtml+xml" />
+      <item id="som-14.3.html" href="som-14.3.html" media-type="application/xhtml+xml" />
+      <item id="som-14.4.html" href="som-14.4.html" media-type="application/xhtml+xml" />
+      <item id="som-14.5.html" href="som-14.5.html" media-type="application/xhtml+xml" />
+      <item id="som-14.6.html" href="som-14.6.html" media-type="application/xhtml+xml" />
+      <item id="som-14.7.html" href="som-14.7.html" media-type="application/xhtml+xml" />
+      <item id="som-14.8.html" href="som-14.8.html" media-type="application/xhtml+xml" />
+      <item id="som-15.1.html" href="som-15.1.html" media-type="application/xhtml+xml" />
+      <item id="som-15.2.html" href="som-15.2.html" media-type="application/xhtml+xml" />
+      <item id="som-15.3.html" href="som-15.3.html" media-type="application/xhtml+xml" />
+      <item id="som-15.4.html" href="som-15.4.html" media-type="application/xhtml+xml" />
+      <item id="som-15.5.html" href="som-15.5.html" media-type="application/xhtml+xml" />
+      <item id="som-15.6.html" href="som-15.6.html" media-type="application/xhtml+xml" />
+      <item id="som-15.7.html" href="som-15.7.html" media-type="application/xhtml+xml" />
+      <item id="som-15.8.html" href="som-15.8.html" media-type="application/xhtml+xml" />
+      <item id="som-15.9.html" href="som-15.9.html" media-type="application/xhtml+xml" />
+      <item id="som-15.10.html" href="som-15.10.html" media-type="application/xhtml+xml" />
+      <item id="som-15.11.html" href="som-15.11.html" media-type="application/xhtml+xml" />
+      <item id="som-16.10.html" href="som-16.10.html" media-type="application/xhtml+xml" />
+      <item id="som-16.1.html" href="som-16.1.html" media-type="application/xhtml+xml" />
+      <item id="som-16.2.html" href="som-16.2.html" media-type="application/xhtml+xml" />
+      <item id="som-16.3.html" href="som-16.3.html" media-type="application/xhtml+xml" />
+      <item id="som-16.4.html" href="som-16.4.html" media-type="application/xhtml+xml" />
+      <item id="som-16.5.html" href="som-16.5.html" media-type="application/xhtml+xml" />
+      <item id="som-16.6.html" href="som-16.6.html" media-type="application/xhtml+xml" />
+      <item id="som-16.7.html" href="som-16.7.html" media-type="application/xhtml+xml" />
+      <item id="som-16.8.html" href="som-16.8.html" media-type="application/xhtml+xml" />
+      <item id="som-16.9.html" href="som-16.9.html" media-type="application/xhtml+xml" />
+      <item id="som-17.10.html" href="som-17.10.html" media-type="application/xhtml+xml" />
+      <item id="som-17.11.html" href="som-17.11.html" media-type="application/xhtml+xml" />
+      <item id="som-17.1.html" href="som-17.1.html" media-type="application/xhtml+xml" />
+      <item id="som-17.2.html" href="som-17.2.html" media-type="application/xhtml+xml" />
+      <item id="som-17.3.html" href="som-17.3.html" media-type="application/xhtml+xml" />
+      <item id="som-17.4.html" href="som-17.4.html" media-type="application/xhtml+xml" />
+      <item id="som-17.5.html" href="som-17.5.html" media-type="application/xhtml+xml" />
+      <item id="som-17.6.html" href="som-17.6.html" media-type="application/xhtml+xml" />
+      <item id="som-17.7.html" href="som-17.7.html" media-type="application/xhtml+xml" />
+      <item id="som-17.8.html" href="som-17.8.html" media-type="application/xhtml+xml" />
+      <item id="som-17.9.html" href="som-17.9.html" media-type="application/xhtml+xml" />
+      <item id="som-18.1.html" href="som-18.1.html" media-type="application/xhtml+xml" />
+      <item id="som-18.2.html" href="som-18.2.html" media-type="application/xhtml+xml" />
+      <item id="som-18.3.html" href="som-18.3.html" media-type="application/xhtml+xml" />
+      <item id="som-18.4.html" href="som-18.4.html" media-type="application/xhtml+xml" />
+      <item id="som-18.5.html" href="som-18.5.html" media-type="application/xhtml+xml" />
+      <item id="som-18.6.html" href="som-18.6.html" media-type="application/xhtml+xml" />
+      <item id="som-18.7.html" href="som-18.7.html" media-type="application/xhtml+xml" />
+      <item id="som-18.8.html" href="som-18.8.html" media-type="application/xhtml+xml" />
+      <item id="som-18.9.html" href="som-18.9.html" media-type="application/xhtml+xml" />
+      <item id="som-19.10.html" href="som-19.10.html" media-type="application/xhtml+xml" />
+      <item id="som-19.1.html" href="som-19.1.html" media-type="application/xhtml+xml" />
+      <item id="som-19.2.html" href="som-19.2.html" media-type="application/xhtml+xml" />
+      <item id="som-19.3.html" href="som-19.3.html" media-type="application/xhtml+xml" />
+      <item id="som-19.4.html" href="som-19.4.html" media-type="application/xhtml+xml" />
+      <item id="som-19.5.html" href="som-19.5.html" media-type="application/xhtml+xml" />
+      <item id="som-19.6.html" href="som-19.6.html" media-type="application/xhtml+xml" />
+      <item id="som-19.7.html" href="som-19.7.html" media-type="application/xhtml+xml" />
+      <item id="som-19.8.html" href="som-19.8.html" media-type="application/xhtml+xml" />
+      <item id="som-19.9.html" href="som-19.9.html" media-type="application/xhtml+xml" />
+      <item id="som-20.1.html" href="som-20.1.html" media-type="application/xhtml+xml" />
+      <item id="som-20.2.html" href="som-20.2.html" media-type="application/xhtml+xml" />
+      <item id="som-20.3.html" href="som-20.3.html" media-type="application/xhtml+xml" />
+      <item id="som-20.4.html" href="som-20.4.html" media-type="application/xhtml+xml" />
+      <item id="som-20.5.html" href="som-20.5.html" media-type="application/xhtml+xml" />
+      <item id="som-20.6.html" href="som-20.6.html" media-type="application/xhtml+xml" />
+      <item id="som-20.7.html" href="som-20.7.html" media-type="application/xhtml+xml" />
+      <item id="som-20.8.html" href="som-20.8.html" media-type="application/xhtml+xml" />
+      <item id="som-20.9.html" href="som-20.9.html" media-type="application/xhtml+xml" />
+      <item id="som-21.1.html" href="som-21.1.html" media-type="application/xhtml+xml" />
+      <item id="som-21.2.html" href="som-21.2.html" media-type="application/xhtml+xml" />
+      <item id="som-21.3.html" href="som-21.3.html" media-type="application/xhtml+xml" />
+      <item id="som-21.4.html" href="som-21.4.html" media-type="application/xhtml+xml" />
+      <item id="som-21.5.html" href="som-21.5.html" media-type="application/xhtml+xml" />
+      <item id="som-21.6.html" href="som-21.6.html" media-type="application/xhtml+xml" />
+      <item id="som-21.7.html" href="som-21.7.html" media-type="application/xhtml+xml" />
+      <item id="som-21.8.html" href="som-21.8.html" media-type="application/xhtml+xml" />
+      <item id="som-22.1.html" href="som-22.1.html" media-type="application/xhtml+xml" />
+      <item id="som-22.2.html" href="som-22.2.html" media-type="application/xhtml+xml" />
+      <item id="som-22.3.html" href="som-22.3.html" media-type="application/xhtml+xml" />
+      <item id="som-22.4.html" href="som-22.4.html" media-type="application/xhtml+xml" />
+      <item id="som-22.5.html" href="som-22.5.html" media-type="application/xhtml+xml" />
+      <item id="som-22.6.html" href="som-22.6.html" media-type="application/xhtml+xml" />
+      <item id="som-22.7.html" href="som-22.7.html" media-type="application/xhtml+xml" />
+      <item id="som-22.8.html" href="som-22.8.html" media-type="application/xhtml+xml" />
+      <item id="som-22.9.html" href="som-22.9.html" media-type="application/xhtml+xml" />
+      <item id="som-22.10.html" href="som-22.10.html" media-type="application/xhtml+xml" />
+      <item id="som-22.11.html" href="som-22.11.html" media-type="application/xhtml+xml" />
+      <item id="som-23.1.html" href="som-23.1.html" media-type="application/xhtml+xml" />
+      <item id="som-23.2.html" href="som-23.2.html" media-type="application/xhtml+xml" />
+      <item id="som-23.3.html" href="som-23.3.html" media-type="application/xhtml+xml" />
+      <item id="som-23.4.html" href="som-23.4.html" media-type="application/xhtml+xml" />
+      <item id="som-23.5.html" href="som-23.5.html" media-type="application/xhtml+xml" />
+      <item id="som-24.1.html" href="som-24.1.html" media-type="application/xhtml+xml" />
+      <item id="som-24.2.html" href="som-24.2.html" media-type="application/xhtml+xml" />
+      <item id="som-24.3.html" href="som-24.3.html" media-type="application/xhtml+xml" />
+      <item id="som-24.4.html" href="som-24.4.html" media-type="application/xhtml+xml" />
+      <item id="som-24.5.html" href="som-24.5.html" media-type="application/xhtml+xml" />
+      <item id="som-24.6.html" href="som-24.6.html" media-type="application/xhtml+xml" />
+      <item id="som-24.7.html" href="som-24.7.html" media-type="application/xhtml+xml" />
+      <item id="som-24.8.html" href="som-24.8.html" media-type="application/xhtml+xml" />
+      <item id="som-24.9.html" href="som-24.9.html" media-type="application/xhtml+xml" />
+      <item id="som-25.1.html" href="som-25.1.html" media-type="application/xhtml+xml" />
+      <item id="som-25.2.html" href="som-25.2.html" media-type="application/xhtml+xml" />
+      <item id="som-25.3.html" href="som-25.3.html" media-type="application/xhtml+xml" />
+      <item id="som-25.4.html" href="som-25.4.html" media-type="application/xhtml+xml" />
+      <item id="som-25.5.html" href="som-25.5.html" media-type="application/xhtml+xml" />
+      <item id="som-25.6.html" href="som-25.6.html" media-type="application/xhtml+xml" />
+      <item id="som-26.1.html" href="som-26.1.html" media-type="application/xhtml+xml" />
+      <item id="som-26.2.html" href="som-26.2.html" media-type="application/xhtml+xml" />
+      <item id="som-26.3.html" href="som-26.3.html" media-type="application/xhtml+xml" />
+      <item id="som-26.4.html" href="som-26.4.html" media-type="application/xhtml+xml" />
+      <item id="som-26.5.html" href="som-26.5.html" media-type="application/xhtml+xml" />
+      <item id="som-26.6.html" href="som-26.6.html" media-type="application/xhtml+xml" />
+      <item id="som-26.7.html" href="som-26.7.html" media-type="application/xhtml+xml" />
+      <item id="som-26.8.html" href="som-26.8.html" media-type="application/xhtml+xml" />
+      <item id="som-26.9.html" href="som-26.9.html" media-type="application/xhtml+xml" />
+      <item id="som-26.10.html" href="som-26.10.html" media-type="application/xhtml+xml" />
+      <item id="som-26.11.html" href="som-26.11.html" media-type="application/xhtml+xml" />
+      <item id="som-26.12.html" href="som-26.12.html" media-type="application/xhtml+xml" />
+      <item id="som-27.1.html" href="som-27.1.html" media-type="application/xhtml+xml" />
+      <item id="som-27.2.html" href="som-27.2.html" media-type="application/xhtml+xml" />
+      <item id="som-27.3.html" href="som-27.3.html" media-type="application/xhtml+xml" />
+      <item id="som-27.4.html" href="som-27.4.html" media-type="application/xhtml+xml" />
+      <item id="som-27.5.html" href="som-27.5.html" media-type="application/xhtml+xml" />
+      <item id="som-27.6.html" href="som-27.6.html" media-type="application/xhtml+xml" />
+      <item id="som-27.7.html" href="som-27.7.html" media-type="application/xhtml+xml" />
+      <item id="som-27.8.html" href="som-27.8.html" media-type="application/xhtml+xml" />
+      <item id="som-28.1.html" href="som-28.1.html" media-type="application/xhtml+xml" />
+      <item id="som-28.2.html" href="som-28.2.html" media-type="application/xhtml+xml" />
+      <item id="som-28.3.html" href="som-28.3.html" media-type="application/xhtml+xml" />
+      <item id="som-28.4.html" href="som-28.4.html" media-type="application/xhtml+xml" />
+      <item id="som-28.5.html" href="som-28.5.html" media-type="application/xhtml+xml" />
+      <item id="som-28.6.html" href="som-28.6.html" media-type="application/xhtml+xml" />
+      <item id="som-28.7.html" href="som-28.7.html" media-type="application/xhtml+xml" />
+      <item id="som-28.8.html" href="som-28.8.html" media-type="application/xhtml+xml" />
+      <item id="som-29.1.html" href="som-29.1.html" media-type="application/xhtml+xml" />
+      <item id="som-29.2.html" href="som-29.2.html" media-type="application/xhtml+xml" />
+      <item id="som-29.3.html" href="som-29.3.html" media-type="application/xhtml+xml" />
+      <item id="som-29.4.html" href="som-29.4.html" media-type="application/xhtml+xml" />
+      <item id="som-29.5.html" href="som-29.5.html" media-type="application/xhtml+xml" />
+      <item id="som-29.6.html" href="som-29.6.html" media-type="application/xhtml+xml" />
+      <item id="som-29.7.html" href="som-29.7.html" media-type="application/xhtml+xml" />
+      <item id="som-29.8.html" href="som-29.8.html" media-type="application/xhtml+xml" />
+      <item id="som-30.1.html" href="som-30.1.html" media-type="application/xhtml+xml" />
+      <item id="som-30.2.html" href="som-30.2.html" media-type="application/xhtml+xml" />
+      <item id="som-30.3.html" href="som-30.3.html" media-type="application/xhtml+xml" />
+      <item id="som-30.4.html" href="som-30.4.html" media-type="application/xhtml+xml" />
+      <item id="som-30.5.html" href="som-30.5.html" media-type="application/xhtml+xml" />
+      <item id="som-30.6.html" href="som-30.6.html" media-type="application/xhtml+xml" />
+      <item id="som-30.7.html" href="som-30.7.html" media-type="application/xhtml+xml" />
+      <item id="som-30.8.html" href="som-30.8.html" media-type="application/xhtml+xml" />
+      <item id="som-appendix.html" href="som-appendix.html" media-type="application/xhtml+xml" />
+      <item id="som-glossary.html" href="som-glossary.html" media-type="application/xhtml+xml" />
+      <item id="som-postscript.html" href="som-postscript.html" media-type="application/xhtml+xml" />
+
+      <item id="illus_som_book.jpeg" href="illus/som_book.jpeg" media-type="image/jpeg" />
+      <item id="illus_ch5_5-2.png" href="illus/ch5/5-2.png" media-type="image/png" />
+      <item id="illus_ch5_5-1.png" href="illus/ch5/5-1.png" media-type="image/png" />
+      <item id="illus_ch19_19-7.png" href="illus/ch19/19-7.png" media-type="image/png" />
+      <item id="illus_ch19_19-8.png" href="illus/ch19/19-8.png" media-type="image/png" />
+      <item id="illus_ch19_19-2.png" href="illus/ch19/19-2.png" media-type="image/png" />
+      <item id="illus_ch19_19-1.png" href="illus/ch19/19-1.png" media-type="image/png" />
+      <item id="illus_ch19_19-6.png" href="illus/ch19/19-6.png" media-type="image/png" />
+      <item id="illus_ch19_19-3.png" href="illus/ch19/19-3.png" media-type="image/png" />
+      <item id="illus_ch19_19-4.png" href="illus/ch19/19-4.png" media-type="image/png" />
+      <item id="illus_ch19_19-10.png" href="illus/ch19/19-10.png" media-type="image/png" />
+      <item id="illus_ch19_19-9.png" href="illus/ch19/19-9.png" media-type="image/png" />
+      <item id="illus_ch19_19-5.png" href="illus/ch19/19-5.png" media-type="image/png" />
+      <item id="illus_ch24_24-2.png" href="illus/ch24/24-2.png" media-type="image/png" />
+      <item id="illus_ch24_24-3.png" href="illus/ch24/24-3.png" media-type="image/png" />
+      <item id="illus_ch24_24-7.png" href="illus/ch24/24-7.png" media-type="image/png" />
+      <item id="illus_ch24_24-4.png" href="illus/ch24/24-4.png" media-type="image/png" />
+      <item id="illus_ch24_24-6.png" href="illus/ch24/24-6.png" media-type="image/png" />
+      <item id="illus_ch24_24-5.png" href="illus/ch24/24-5.png" media-type="image/png" />
+      <item id="illus_ch24_24-1.png" href="illus/ch24/24-1.png" media-type="image/png" />
+      <item id="illus_ch30_30-2.png" href="illus/ch30/30-2.png" media-type="image/png" />
+      <item id="illus_ch30_30-3.png" href="illus/ch30/30-3.png" media-type="image/png" />
+      <item id="illus_ch30_30-4.png" href="illus/ch30/30-4.png" media-type="image/png" />
+      <item id="illus_ch30_30-1.png" href="illus/ch30/30-1.png" media-type="image/png" />
+      <item id="illus_ch30_30-5.png" href="illus/ch30/30-5.png" media-type="image/png" />
+      <item id="illus_ch8_8-4.png" href="illus/ch8/8-4.png" media-type="image/png" />
+      <item id="illus_ch8_8-10.png" href="illus/ch8/8-10.png" media-type="image/png" />
+      <item id="illus_ch8_8-3.png" href="illus/ch8/8-3.png" media-type="image/png" />
+      <item id="illus_ch8_8-1.png" href="illus/ch8/8-1.png" media-type="image/png" />
+      <item id="illus_ch8_8-8.png" href="illus/ch8/8-8.png" media-type="image/png" />
+      <item id="illus_ch8_8-6.png" href="illus/ch8/8-6.png" media-type="image/png" />
+      <item id="illus_ch8_8-9.png" href="illus/ch8/8-9.png" media-type="image/png" />
+      <item id="illus_ch8_8-2.png" href="illus/ch8/8-2.png" media-type="image/png" />
+      <item id="illus_ch8_8-7.png" href="illus/ch8/8-7.png" media-type="image/png" />
+      <item id="illus_ch13_13-7.png" href="illus/ch13/13-7.png" media-type="image/png" />
+      <item id="illus_ch13_13-5.png" href="illus/ch13/13-5.png" media-type="image/png" />
+      <item id="illus_ch13_13-3.png" href="illus/ch13/13-3.png" media-type="image/png" />
+      <item id="illus_ch13_13-13.png" href="illus/ch13/13-13.png" media-type="image/png" />
+      <item id="illus_ch13_13-14.png" href="illus/ch13/13-14.png" media-type="image/png" />
+      <item id="illus_ch13_13-2.png" href="illus/ch13/13-2.png" media-type="image/png" />
+      <item id="illus_ch13_13-6.png" href="illus/ch13/13-6.png" media-type="image/png" />
+      <item id="illus_ch13_13-1.png" href="illus/ch13/13-1.png" media-type="image/png" />
+      <item id="illus_ch13_13-9.png" href="illus/ch13/13-9.png" media-type="image/png" />
+      <item id="illus_ch13_13-4.png" href="illus/ch13/13-4.png" media-type="image/png" />
+      <item id="illus_ch13_13-16.png" href="illus/ch13/13-16.png" media-type="image/png" />
+      <item id="illus_ch13_13-15.png" href="illus/ch13/13-15.png" media-type="image/png" />
+      <item id="illus_ch13_13-10.png" href="illus/ch13/13-10.png" media-type="image/png" />
+      <item id="illus_ch13_13-8.png" href="illus/ch13/13-8.png" media-type="image/png" />
+      <item id="illus_ch13_13-12.png" href="illus/ch13/13-12.png" media-type="image/png" />
+      <item id="illus_ch13_13-11.png" href="illus/ch13/13-11.png" media-type="image/png" />
+      <item id="illus_ch17_17-2.png" href="illus/ch17/17-2.png" media-type="image/png" />
+      <item id="illus_ch28_28-1.png" href="illus/ch28/28-1.png" media-type="image/png" />
+      <item id="illus_ch28_28-3.png" href="illus/ch28/28-3.png" media-type="image/png" />
+      <item id="illus_ch12_12-10.png" href="illus/ch12/12-10.png" media-type="image/png" />
+      <item id="illus_ch12_12-11.png" href="illus/ch12/12-11.png" media-type="image/png" />
+      <item id="illus_ch12_12-4.png" href="illus/ch12/12-4.png" media-type="image/png" />
+      <item id="illus_ch12_12-5.png" href="illus/ch12/12-5.png" media-type="image/png" />
+      <item id="illus_ch12_12-7.png" href="illus/ch12/12-7.png" media-type="image/png" />
+      <item id="illus_ch12_12-3.png" href="illus/ch12/12-3.png" media-type="image/png" />
+      <item id="illus_ch12_12-6.png" href="illus/ch12/12-6.png" media-type="image/png" />
+      <item id="illus_ch12_12-12.png" href="illus/ch12/12-12.png" media-type="image/png" />
+      <item id="illus_ch12_12-2.png" href="illus/ch12/12-2.png" media-type="image/png" />
+      <item id="illus_ch12_12-1.png" href="illus/ch12/12-1.png" media-type="image/png" />
+      <item id="illus_ch12_12-8.png" href="illus/ch12/12-8.png" media-type="image/png" />
+      <item id="illus_ch12_12-9.png" href="illus/ch12/12-9.png" media-type="image/png" />
+      <item id="illus_ch11_11-2.png" href="illus/ch11/11-2.png" media-type="image/png" />
+      <item id="illus_ch11_11-1.png" href="illus/ch11/11-1.png" media-type="image/png" />
+      <item id="illus_ch11_11-4.png" href="illus/ch11/11-4.png" media-type="image/png" />
+      <item id="illus_ch11_11-5.png" href="illus/ch11/11-5.png" media-type="image/png" />
+      <item id="illus_ch11_11-3.png" href="illus/ch11/11-3.png" media-type="image/png" />
+      <item id="illus_ch16_16-2.png" href="illus/ch16/16-2.png" media-type="image/png" />
+      <item id="illus_ch16_16-10.png" href="illus/ch16/16-10.png" media-type="image/png" />
+      <item id="illus_ch16_16-9.png" href="illus/ch16/16-9.png" media-type="image/png" />
+      <item id="illus_ch16_16-3.png" href="illus/ch16/16-3.png" media-type="image/png" />
+      <item id="illus_ch16_16-6.png" href="illus/ch16/16-6.png" media-type="image/png" />
+      <item id="illus_ch16_16-12.png" href="illus/ch16/16-12.png" media-type="image/png" />
+      <item id="illus_ch16_16-13.png" href="illus/ch16/16-13.png" media-type="image/png" />
+      <item id="illus_ch16_16-7.png" href="illus/ch16/16-7.png" media-type="image/png" />
+      <item id="illus_ch16_16-4.png" href="illus/ch16/16-4.png" media-type="image/png" />
+      <item id="illus_ch16_16-8.png" href="illus/ch16/16-8.png" media-type="image/png" />
+      <item id="illus_ch15_15-3.png" href="illus/ch15/15-3.png" media-type="image/png" />
+      <item id="illus_ch1_1-2.png" href="illus/ch1/1-2.png" media-type="image/png" />
+      <item id="illus_ch1_1-3.png" href="illus/ch1/1-3.png" media-type="image/png" />
+      <item id="illus_ch1_1-4.png" href="illus/ch1/1-4.png" media-type="image/png" />
+      <item id="illus_ch7_7-1.png" href="illus/ch7/7-1.png" media-type="image/png" />
+      <item id="illus_ch2_2-1.png" href="illus/ch2/2-1.png" media-type="image/png" />
+      <item id="illus_ch26_26-5.png" href="illus/ch26/26-5.png" media-type="image/png" />
+      <item id="illus_ch26_26-2.png" href="illus/ch26/26-2.png" media-type="image/png" />
+      <item id="illus_ch26_26-14.png" href="illus/ch26/26-14.png" media-type="image/png" />
+      <item id="illus_ch26_26-12.png" href="illus/ch26/26-12.png" media-type="image/png" />
+      <item id="illus_ch26_26-13.png" href="illus/ch26/26-13.png" media-type="image/png" />
+      <item id="illus_ch26_26-3.png" href="illus/ch26/26-3.png" media-type="image/png" />
+      <item id="illus_ch29_29-6.png" href="illus/ch29/29-6.png" media-type="image/png" />
+      <item id="illus_ch29_29-5.png" href="illus/ch29/29-5.png" media-type="image/png" />
+      <item id="illus_ch29_29-2.png" href="illus/ch29/29-2.png" media-type="image/png" />
+      <item id="illus_ch29_29-1.png" href="illus/ch29/29-1.png" media-type="image/png" />
+      <item id="illus_ch29_29-4.png" href="illus/ch29/29-4.png" media-type="image/png" />
+      <item id="illus_ch29_29-8.png" href="illus/ch29/29-8.png" media-type="image/png" />
+      <item id="illus_ch29_29-3.png" href="illus/ch29/29-3.png" media-type="image/png" />
+      <item id="illus_ch3_3-2.png" href="illus/ch3/3-2.png" media-type="image/png" />
+      <item id="illus_ch3_3-1.png" href="illus/ch3/3-1.png" media-type="image/png" />
+      <item id="illus_ch3_3-4.png" href="illus/ch3/3-4.png" media-type="image/png" />
+      <item id="illus_ch3_3-3.png" href="illus/ch3/3-3.png" media-type="image/png" />
+      <item id="illus_ch10_10-11.png" href="illus/ch10/10-11.png" media-type="image/png" />
+      <item id="illus_ch10_10-7.png" href="illus/ch10/10-7.png" media-type="image/png" />
+      <item id="illus_ch10_10-12.png" href="illus/ch10/10-12.png" media-type="image/png" />
+      <item id="illus_ch10_10-4.png" href="illus/ch10/10-4.png" media-type="image/png" />
+      <item id="illus_ch10_10-10.png" href="illus/ch10/10-10.png" media-type="image/png" />
+      <item id="illus_ch10_10-3.png" href="illus/ch10/10-3.png" media-type="image/png" />
+      <item id="illus_ch10_10-2.png" href="illus/ch10/10-2.png" media-type="image/png" />
+      <item id="illus_ch10_10-1.png" href="illus/ch10/10-1.png" media-type="image/png" />
+      <item id="illus_ch10_10-9.png" href="illus/ch10/10-9.png" media-type="image/png" />
+      <item id="illus_ch10_10-8.png" href="illus/ch10/10-8.png" media-type="image/png" />
+      <item id="illus_ch10_10-6.png" href="illus/ch10/10-6.png" media-type="image/png" />
+      <item id="illus_ch10_10-5.png" href="illus/ch10/10-5.png" media-type="image/png" />
+      <item id="illus_ch27_27-3.png" href="illus/ch27/27-3.png" media-type="image/png" />
+      <item id="illus_ch27_27-1.png" href="illus/ch27/27-1.png" media-type="image/png" />
+      <item id="illus_ch27_27-4.png" href="illus/ch27/27-4.png" media-type="image/png" />
+      <item id="illus_ch27_27-2.png" href="illus/ch27/27-2.png" media-type="image/png" />
+      <item id="illus_ch23_23-1.png" href="illus/ch23/23-1.png" media-type="image/png" />
+      <item id="illus_ch23_23-2.png" href="illus/ch23/23-2.png" media-type="image/png" />
+      <item id="illus_ch25_25-15.png" href="illus/ch25/25-15.png" media-type="image/png" />
+      <item id="illus_ch25_25-5.png" href="illus/ch25/25-5.png" media-type="image/png" />
+      <item id="illus_ch25_25-2.png" href="illus/ch25/25-2.png" media-type="image/png" />
+      <item id="illus_ch25_25-4.png" href="illus/ch25/25-4.png" media-type="image/png" />
+      <item id="illus_ch25_25-1.png" href="illus/ch25/25-1.png" media-type="image/png" />
+      <item id="illus_ch25_25-14.png" href="illus/ch25/25-14.png" media-type="image/png" />
+      <item id="illus_ch25_25-3.png" href="illus/ch25/25-3.png" media-type="image/png" />
+      <item id="illus_ch14_14-2.png" href="illus/ch14/14-2.png" media-type="image/png" />
+      <item id="illus_ch14_14-7.png" href="illus/ch14/14-7.png" media-type="image/png" />
+      <item id="illus_ch14_14-9.png" href="illus/ch14/14-9.png" media-type="image/png" />
+      <item id="illus_ch14_14-15.png" href="illus/ch14/14-15.png" media-type="image/png" />
+      <item id="illus_ch14_14-12.png" href="illus/ch14/14-12.png" media-type="image/png" />
+      <item id="illus_ch14_14-5.png" href="illus/ch14/14-5.png" media-type="image/png" />
+      <item id="illus_ch14_14-1.png" href="illus/ch14/14-1.png" media-type="image/png" />
+      <item id="illus_ch14_14-14.png" href="illus/ch14/14-14.png" media-type="image/png" />
+      <item id="illus_ch14_14-11.png" href="illus/ch14/14-11.png" media-type="image/png" />
+      <item id="illus_ch14_14-8.png" href="illus/ch14/14-8.png" media-type="image/png" />
+      <item id="illus_ch14_14-16.png" href="illus/ch14/14-16.png" media-type="image/png" />
+      <item id="illus_ch14_14-6.png" href="illus/ch14/14-6.png" media-type="image/png" />
+      <item id="illus_ch14_14-3.png" href="illus/ch14/14-3.png" media-type="image/png" />
+      <item id="illus_ch18_18-13.png" href="illus/ch18/18-13.png" media-type="image/png" />
+      <item id="illus_ch18_18-12.png" href="illus/ch18/18-12.png" media-type="image/png" />
+      <item id="illus_ch18_18-11.png" href="illus/ch18/18-11.png" media-type="image/png" />
+      <item id="illus_ch18_18-6.png" href="illus/ch18/18-6.png" media-type="image/png" />
+      <item id="illus_appendix_Appendix-3.png" href="illus/appendix/Appendix-3.png" media-type="image/png" />
+      <item id="illus_appendix_Appendix-5.png" href="illus/appendix/Appendix-5.png" media-type="image/png" />
+      <item id="illus_appendix_Appendix-4.png" href="illus/appendix/Appendix-4.png" media-type="image/png" />
+      <item id="illus_appendix_Appendix-2.png" href="illus/appendix/Appendix-2.png" media-type="image/png" />
+      <item id="illus_appendix_Appendix-6.png" href="illus/appendix/Appendix-6.png" media-type="image/png" />
+      <item id="illus_appendix_Appendix-1.png" href="illus/appendix/Appendix-1.png" media-type="image/png" />
+      <item id="illus_ch20_20-2.png" href="illus/ch20/20-2.png" media-type="image/png" />
+      <item id="illus_ch20_20-3.png" href="illus/ch20/20-3.png" media-type="image/png" />
+      <item id="illus_ch20_20-7.png" href="illus/ch20/20-7.png" media-type="image/png" />
+      <item id="illus_ch20_20-1.png" href="illus/ch20/20-1.png" media-type="image/png" />
+      <item id="illus_ch20_20-6.png" href="illus/ch20/20-6.png" media-type="image/png" />
+      <item id="illus_ch20_20-4.png" href="illus/ch20/20-4.png" media-type="image/png" />
+      <item id="illus_ch21_21-2.png" href="illus/ch21/21-2.png" media-type="image/png" />
+      <item id="illus_ch21_21-4.png" href="illus/ch21/21-4.png" media-type="image/png" />
+      <item id="illus_ch21_21-6.png" href="illus/ch21/21-6.png" media-type="image/png" />
+      <item id="illus_ch21_21-1.png" href="illus/ch21/21-1.png" media-type="image/png" />
+      <item id="illus_ch21_21-5.png" href="illus/ch21/21-5.png" media-type="image/png" />
+      <item id="illus_ch21_21-3.png" href="illus/ch21/21-3.png" media-type="image/png" />
+      <item id="illus_ch6_6-1.png" href="illus/ch6/6-1.png" media-type="image/png" />
+      <item id="illus_ch6_6-2.png" href="illus/ch6/6-2.png" media-type="image/png" />
+    </manifest>
+
+    <spine toc="ncx">
+      <itemref idref="cover.html" />
+      <itemref idref="contents.html" />
+      <itemref idref="som-prologue.html" />
+      <itemref idref="som-1.1.html" />
+      <itemref idref="som-1.2.html" />
+      <itemref idref="som-1.3.html" />
+      <itemref idref="som-1.4.html" />
+      <itemref idref="som-1.5.html" />
+      <itemref idref="som-1.6.html" />
+      <itemref idref="som-2.1.html" />
+      <itemref idref="som-2.2.html" />
+      <itemref idref="som-2.3.html" />
+      <itemref idref="som-2.4.html" />
+      <itemref idref="som-2.5.html" />
+      <itemref idref="som-2.6.html" />
+      <itemref idref="som-3.1.html" />
+      <itemref idref="som-3.2.html" />
+      <itemref idref="som-3.3.html" />
+      <itemref idref="som-3.4.html" />
+      <itemref idref="som-3.5.html" />
+      <itemref idref="som-3.6.html" />
+      <itemref idref="som-4.1.html" />
+      <itemref idref="som-4.2.html" />
+      <itemref idref="som-4.3.html" />
+      <itemref idref="som-4.4.html" />
+      <itemref idref="som-4.5.html" />
+      <itemref idref="som-4.6.html" />
+      <itemref idref="som-4.7.html" />
+      <itemref idref="som-4.8.html" />
+      <itemref idref="som-5.1.html" />
+      <itemref idref="som-5.2.html" />
+      <itemref idref="som-5.3.html" />
+      <itemref idref="som-5.4.html" />
+      <itemref idref="som-5.5.html" />
+      <itemref idref="som-5.6.html" />
+      <itemref idref="som-5.7.html" />
+      <itemref idref="som-6.1.html" />
+      <itemref idref="som-6.2.html" />
+      <itemref idref="som-6.3.html" />
+      <itemref idref="som-6.4.html" />
+      <itemref idref="som-6.5.html" />
+      <itemref idref="som-6.6.html" />
+      <itemref idref="som-6.7.html" />
+      <itemref idref="som-6.8.html" />
+      <itemref idref="som-6.9.html" />
+      <itemref idref="som-6.10.html" />
+      <itemref idref="som-6.11.html" />
+      <itemref idref="som-6.12.html" />
+      <itemref idref="som-6.13.html" />
+      <itemref idref="som-6.14.html" />
+      <itemref idref="som-7.1.html" />
+      <itemref idref="som-7.2.html" />
+      <itemref idref="som-7.3.html" />
+      <itemref idref="som-7.4.html" />
+      <itemref idref="som-7.5.html" />
+      <itemref idref="som-7.6.html" />
+      <itemref idref="som-7.7.html" />
+      <itemref idref="som-7.8.html" />
+      <itemref idref="som-7.9.html" />
+      <itemref idref="som-7.10.html" />
+      <itemref idref="som-8.1.html" />
+      <itemref idref="som-8.2.html" />
+      <itemref idref="som-8.3.html" />
+      <itemref idref="som-8.4.html" />
+      <itemref idref="som-8.5.html" />
+      <itemref idref="som-8.6.html" />
+      <itemref idref="som-8.7.html" />
+      <itemref idref="som-8.8.html" />
+      <itemref idref="som-8.9.html" />
+      <itemref idref="som-8.10.html" />
+      <itemref idref="som-8.11.html" />
+      <itemref idref="som-9.1.html" />
+      <itemref idref="som-9.2.html" />
+      <itemref idref="som-9.3.html" />
+      <itemref idref="som-9.4.html" />
+      <itemref idref="som-10.1.html" />
+      <itemref idref="som-10.2.html" />
+      <itemref idref="som-10.3.html" />
+      <itemref idref="som-10.4.html" />
+      <itemref idref="som-10.5.html" />
+      <itemref idref="som-10.6.html" />
+      <itemref idref="som-10.7.html" />
+      <itemref idref="som-10.8.html" />
+      <itemref idref="som-10.9.html" />
+      <itemref idref="som-11.1.html" />
+      <itemref idref="som-11.2.html" />
+      <itemref idref="som-11.3.html" />
+      <itemref idref="som-11.4.html" />
+      <itemref idref="som-11.5.html" />
+      <itemref idref="som-11.6.html" />
+      <itemref idref="som-11.7.html" />
+      <itemref idref="som-11.8.html" />
+      <itemref idref="som-11.9.html" />
+      <itemref idref="som-12.1.html" />
+      <itemref idref="som-12.2.html" />
+      <itemref idref="som-12.3.html" />
+      <itemref idref="som-12.4.html" />
+      <itemref idref="som-12.5.html" />
+      <itemref idref="som-12.6.html" />
+      <itemref idref="som-12.7.html" />
+      <itemref idref="som-12.8.html" />
+      <itemref idref="som-12.9.html" />
+      <itemref idref="som-12.10.html" />
+      <itemref idref="som-12.11.html" />
+      <itemref idref="som-12.12.html" />
+      <itemref idref="som-12.13.html" />
+      <itemref idref="som-13.1.html" />
+      <itemref idref="som-13.2.html" />
+      <itemref idref="som-13.3.html" />
+      <itemref idref="som-13.4.html" />
+      <itemref idref="som-13.5.html" />
+      <itemref idref="som-13.6.html" />
+      <itemref idref="som-13.7.html" />
+      <itemref idref="som-14.1.html" />
+      <itemref idref="som-14.2.html" />
+      <itemref idref="som-14.3.html" />
+      <itemref idref="som-14.4.html" />
+      <itemref idref="som-14.5.html" />
+      <itemref idref="som-14.6.html" />
+      <itemref idref="som-14.7.html" />
+      <itemref idref="som-14.8.html" />
+      <itemref idref="som-15.1.html" />
+      <itemref idref="som-15.2.html" />
+      <itemref idref="som-15.3.html" />
+      <itemref idref="som-15.4.html" />
+      <itemref idref="som-15.5.html" />
+      <itemref idref="som-15.6.html" />
+      <itemref idref="som-15.7.html" />
+      <itemref idref="som-15.8.html" />
+      <itemref idref="som-15.9.html" />
+      <itemref idref="som-15.10.html" />
+      <itemref idref="som-15.11.html" />
+      <itemref idref="som-16.10.html" />
+      <itemref idref="som-16.1.html" />
+      <itemref idref="som-16.2.html" />
+      <itemref idref="som-16.3.html" />
+      <itemref idref="som-16.4.html" />
+      <itemref idref="som-16.5.html" />
+      <itemref idref="som-16.6.html" />
+      <itemref idref="som-16.7.html" />
+      <itemref idref="som-16.8.html" />
+      <itemref idref="som-16.9.html" />
+      <itemref idref="som-17.10.html" />
+      <itemref idref="som-17.11.html" />
+      <itemref idref="som-17.1.html" />
+      <itemref idref="som-17.2.html" />
+      <itemref idref="som-17.3.html" />
+      <itemref idref="som-17.4.html" />
+      <itemref idref="som-17.5.html" />
+      <itemref idref="som-17.6.html" />
+      <itemref idref="som-17.7.html" />
+      <itemref idref="som-17.8.html" />
+      <itemref idref="som-17.9.html" />
+      <itemref idref="som-18.1.html" />
+      <itemref idref="som-18.2.html" />
+      <itemref idref="som-18.3.html" />
+      <itemref idref="som-18.4.html" />
+      <itemref idref="som-18.5.html" />
+      <itemref idref="som-18.6.html" />
+      <itemref idref="som-18.7.html" />
+      <itemref idref="som-18.8.html" />
+      <itemref idref="som-18.9.html" />
+      <itemref idref="som-19.10.html" />
+      <itemref idref="som-19.1.html" />
+      <itemref idref="som-19.2.html" />
+      <itemref idref="som-19.3.html" />
+      <itemref idref="som-19.4.html" />
+      <itemref idref="som-19.5.html" />
+      <itemref idref="som-19.6.html" />
+      <itemref idref="som-19.7.html" />
+      <itemref idref="som-19.8.html" />
+      <itemref idref="som-19.9.html" />
+      <itemref idref="som-20.1.html" />
+      <itemref idref="som-20.2.html" />
+      <itemref idref="som-20.3.html" />
+      <itemref idref="som-20.4.html" />
+      <itemref idref="som-20.5.html" />
+      <itemref idref="som-20.6.html" />
+      <itemref idref="som-20.7.html" />
+      <itemref idref="som-20.8.html" />
+      <itemref idref="som-20.9.html" />
+      <itemref idref="som-21.1.html" />
+      <itemref idref="som-21.2.html" />
+      <itemref idref="som-21.3.html" />
+      <itemref idref="som-21.4.html" />
+      <itemref idref="som-21.5.html" />
+      <itemref idref="som-21.6.html" />
+      <itemref idref="som-21.7.html" />
+      <itemref idref="som-21.8.html" />
+      <itemref idref="som-22.1.html" />
+      <itemref idref="som-22.2.html" />
+      <itemref idref="som-22.3.html" />
+      <itemref idref="som-22.4.html" />
+      <itemref idref="som-22.5.html" />
+      <itemref idref="som-22.6.html" />
+      <itemref idref="som-22.7.html" />
+      <itemref idref="som-22.8.html" />
+      <itemref idref="som-22.9.html" />
+      <itemref idref="som-22.10.html" />
+      <itemref idref="som-22.11.html" />
+      <itemref idref="som-23.1.html" />
+      <itemref idref="som-23.2.html" />
+      <itemref idref="som-23.3.html" />
+      <itemref idref="som-23.4.html" />
+      <itemref idref="som-23.5.html" />
+      <itemref idref="som-24.1.html" />
+      <itemref idref="som-24.2.html" />
+      <itemref idref="som-24.3.html" />
+      <itemref idref="som-24.4.html" />
+      <itemref idref="som-24.5.html" />
+      <itemref idref="som-24.6.html" />
+      <itemref idref="som-24.7.html" />
+      <itemref idref="som-24.8.html" />
+      <itemref idref="som-24.9.html" />
+      <itemref idref="som-25.1.html" />
+      <itemref idref="som-25.2.html" />
+      <itemref idref="som-25.3.html" />
+      <itemref idref="som-25.4.html" />
+      <itemref idref="som-25.5.html" />
+      <itemref idref="som-25.6.html" />
+      <itemref idref="som-26.1.html" />
+      <itemref idref="som-26.2.html" />
+      <itemref idref="som-26.3.html" />
+      <itemref idref="som-26.4.html" />
+      <itemref idref="som-26.5.html" />
+      <itemref idref="som-26.6.html" />
+      <itemref idref="som-26.7.html" />
+      <itemref idref="som-26.8.html" />
+      <itemref idref="som-26.9.html" />
+      <itemref idref="som-26.10.html" />
+      <itemref idref="som-26.11.html" />
+      <itemref idref="som-26.12.html" />
+      <itemref idref="som-27.1.html" />
+      <itemref idref="som-27.2.html" />
+      <itemref idref="som-27.3.html" />
+      <itemref idref="som-27.4.html" />
+      <itemref idref="som-27.5.html" />
+      <itemref idref="som-27.6.html" />
+      <itemref idref="som-27.7.html" />
+      <itemref idref="som-27.8.html" />
+      <itemref idref="som-28.1.html" />
+      <itemref idref="som-28.2.html" />
+      <itemref idref="som-28.3.html" />
+      <itemref idref="som-28.4.html" />
+      <itemref idref="som-28.5.html" />
+      <itemref idref="som-28.6.html" />
+      <itemref idref="som-28.7.html" />
+      <itemref idref="som-28.8.html" />
+      <itemref idref="som-29.1.html" />
+      <itemref idref="som-29.2.html" />
+      <itemref idref="som-29.3.html" />
+      <itemref idref="som-29.4.html" />
+      <itemref idref="som-29.5.html" />
+      <itemref idref="som-29.6.html" />
+      <itemref idref="som-29.7.html" />
+      <itemref idref="som-29.8.html" />
+      <itemref idref="som-30.1.html" />
+      <itemref idref="som-30.2.html" />
+      <itemref idref="som-30.3.html" />
+      <itemref idref="som-30.4.html" />
+      <itemref idref="som-30.5.html" />
+      <itemref idref="som-30.6.html" />
+      <itemref idref="som-30.7.html" />
+      <itemref idref="som-30.8.html" />
+      <itemref idref="som-appendix.html" />
+      <itemref idref="som-postscript.html" />
+      <itemref idref="som-glossary.html" />
+    </spine>
+
+</package>
